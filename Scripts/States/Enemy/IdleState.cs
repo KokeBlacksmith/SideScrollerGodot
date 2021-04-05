@@ -18,6 +18,7 @@ namespace KokeBlacksmith.States.Enemy
         #region IState
         public void OnStateEnter(KokeBlacksmith.Enemy character)
         {
+            character.Velocity = Vector2.Zero;
             timeout = false;
             _timer.Start();
         }

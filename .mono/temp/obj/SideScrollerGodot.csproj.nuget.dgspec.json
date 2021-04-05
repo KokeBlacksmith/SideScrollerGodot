@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/koke/Documents/Projects/SideScrollerGodot/SideScrollerGodot.csproj": {}
+  },
+  "projects": {
+    "/Users/koke/Documents/Projects/SideScrollerGodot/SideScrollerGodot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/koke/Documents/Projects/SideScrollerGodot/SideScrollerGodot.csproj",
+        "projectName": "SideScrollerGodot",
+        "projectPath": "/Users/koke/Documents/Projects/SideScrollerGodot/SideScrollerGodot.csproj",
+        "packagesPath": "/Users/koke/.nuget/packages/",
+        "outputPath": "/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/koke/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/mono/6.12.0.122/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

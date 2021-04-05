@@ -1,0 +1,8 @@
+/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/obj/Debug/SideScrollerGodot.csprojAssemblyReference.cache
+/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/obj/Debug/SideScrollerGodot.AssemblyInfoInputs.cache
+/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/obj/Debug/SideScrollerGodot.AssemblyInfo.cs
+/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/obj/Debug/SideScrollerGodot.csproj.CoreCompileInputs.cache
+/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/bin/Debug/SideScrollerGodot.dll
+/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/bin/Debug/SideScrollerGodot.pdb
+/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/obj/Debug/SideScrollerGodot.dll
+/Users/koke/Documents/Projects/SideScrollerGodot/.mono/temp/obj/Debug/SideScrollerGodot.pdb
